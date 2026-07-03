@@ -1,14 +1,6 @@
 {
     "TRUYỀN HÌNH": [
         {
-            "title": "Intent Filter Verification Service",
-            "version": "1.0",
-            "packageName": "com.android.statementservice",
-            "description": "Đã tải lên bằng Tool CMS",
-            "icon": "https://img.icons8.com/color/512/android-os.png",
-            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/StatementService.apk"
-        },
-        {
             "title": "VietPlay TV",
             "version": "2.4",
             "packageName": "com.nghenhin24h.vietplaytv",
