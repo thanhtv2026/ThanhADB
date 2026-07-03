@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "TVQ8",
+            "version": "1.0.10",
+            "packageName": "com.apptv.tvq8",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/TVQ8_1.0.10.apk"
+        },
+        {
             "title": "Xem TV365",
             "version": "V3.0 ( 30.06.2026 )",
             "packageName": "com.tvonline.hdtv",
