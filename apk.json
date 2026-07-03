@@ -1,1 +1,12 @@
-{}
+{
+    "TRUYỀN HÌNH": [
+        {
+            "title": "VietPlay TV",
+            "version": "2.4",
+            "packageName": "com.nghenhin24h.vietplaytv",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Vietplaytv.apk"
+        }
+    ]
+}
