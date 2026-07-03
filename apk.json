@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "YouTube",
+            "version": "1.10.1",
+            "packageName": "com.google.android.youtube.tv",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/cobalttube-armTV.apk"
+        },
+        {
             "title": "Rổ Phim Cô Be",
             "version": "1.0.0",
             "packageName": "com.tv.rophimm",
