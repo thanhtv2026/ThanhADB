@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "Rổ Phim Cô Be",
+            "version": "1.0.0",
+            "packageName": "com.tv.rophimm",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/cobephimtv.apk"
+        },
+        {
             "title": "File Manager +",
             "version": "3.1.8",
             "packageName": "com.alphainventor.filemanager",
