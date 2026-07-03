@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "Xem TV365",
+            "version": "V3.0 ( 30.06.2026 )",
+            "packageName": "com.tvonline.hdtv",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Hdtv_.Tvonline._vV3.0.apk"
+        },
+        {
             "title": "YouTube",
             "version": "1.10.1",
             "packageName": "com.google.android.youtube.tv",
