@@ -1,0 +1,14 @@
+[
+  {
+    "name": "YouTube Không Quảng Cáo",
+    "desc": "Bản mod xem YouTube không bị quảng cáo làm phiền.",
+    "icon": "https://raw.githubusercontent.com/anhbaotv/BaoADBTool/main/yt_icon.png",
+    "url": "https://github.com/anhbaotv/BaoADBTool/releases/download/v1/youtube_vanced.apk"
+  },
+  {
+    "name": "Netflix Tivi",
+    "desc": "Ứng dụng xem phim bản quyền.",
+    "icon": "https://raw.githubusercontent.com/anhbaotv/BaoADBTool/main/netflix_icon.png",
+    "url": "https://github.com/anhbaotv/BaoADBTool/releases/download/v1/netflix.apk"
+  }
+]
