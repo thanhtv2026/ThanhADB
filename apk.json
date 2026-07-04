@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "Box Store MCU",
+            "version": "2.0",
+            "packageName": "com.marvel.cuahangapp",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Cuahangapp_.Marvel._v2.0.apk"
+        },
+        {
             "title": "TVQ8",
             "version": "1.0.10",
             "packageName": "com.apptv.tvq8",
