@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "YouTube",
+            "version": "1.10.1",
+            "packageName": "com.google.android.youtube.tv",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Tv_.Youtube._v1.10.1.apk"
+        },
+        {
             "title": "Phim4K",
             "version": "2.6.0",
             "packageName": "com.oxootv.spagreen",
