@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "VAX Player",
+            "version": "1.7.1",
+            "packageName": "com.vaapp.app",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/App_.Vaapp._v1.7.1.apk"
+        },
+        {
             "title": "Box Store MCU",
             "version": "4.0",
             "packageName": "com.marvel.cuahangapp",
