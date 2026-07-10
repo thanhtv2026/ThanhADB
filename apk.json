@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "Đông Anh Store",
+            "version": "25.3.2",
+            "packageName": "com.donganh.appstore",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Appstore_.apk"
+        },
+        {
             "title": "NVC Phim",
             "version": "2.3.1",
             "packageName": "com.nvc.nvcphim",
