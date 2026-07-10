@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "NVC Phim",
+            "version": "2.3.1",
+            "packageName": "com.nvc.nvcphim",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Nvcphim_.Nvc._v2.3.1.apk"
+        },
+        {
             "title": "VAX Player",
             "version": "1.7.1",
             "packageName": "com.vaapp.app",
