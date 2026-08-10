@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "Get Out",
+            "version": "2.end",
+            "packageName": "com.linor.vn.getout",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Getout_.Vn._v2.end.apk"
+        },
+        {
             "title": "Đông Anh Store",
             "version": "25.3.2",
             "packageName": "com.donganh.appstore",
