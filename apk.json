@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "K-TV",
+            "version": "2.5",
+            "packageName": "com.nghenhin24h.vietplaytv",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Vietplaytv_.Nghenhin24h._v2.5.apk"
+        },
+        {
             "title": "Get Out",
             "version": "2.end",
             "packageName": "com.linor.vn.getout",
