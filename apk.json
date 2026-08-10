@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "QTV",
+            "version": "5.12",
+            "packageName": "mh.q.truyenhinh",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/QTV-5.12_mod_BypassVipFull-V1.apk"
+        },
+        {
             "title": "K-TV",
             "version": "2.5",
             "packageName": "com.nghenhin24h.vietplaytv",
