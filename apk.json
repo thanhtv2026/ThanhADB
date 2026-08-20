@@ -17,14 +17,6 @@
             "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Iptv_.Haidaklak._v1.1.9.apk"
         },
         {
-            "title": "YouTube",
-            "version": "1.10.1",
-            "packageName": "com.google.android.youtube.tv",
-            "description": "Đã tải lên bằng Tool CMS",
-            "icon": "https://img.icons8.com/color/512/android-os.png",
-            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Youtube_chan_qc_fix_loi_kg_xac_dinh.v.1.10.1.apk"
-        },
-        {
             "title": "QTV",
             "version": "5.12",
             "packageName": "mh.q.truyenhinh",
