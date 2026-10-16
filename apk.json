@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "TinhLaGi TV",
+            "version": "6.1.4",
+            "packageName": "com.sports.tv",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Tv_.Sports._v6.1.4.apk"
+        },
+        {
             "title": "Youtube TV",
             "version": "1.0.7",
             "packageName": "com.google.android.youtube.tv",
