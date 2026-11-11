@@ -1,6 +1,14 @@
 {
     "TRUYỀN HÌNH": [
         {
+            "title": "Phim and HH3D",
+            "version": "1.0.5.3",
+            "packageName": "com.maixuanninh.apptv",
+            "description": "Đã tải lên bằng Tool CMS",
+            "icon": "https://img.icons8.com/color/512/android-os.png",
+            "downloadUrl": "https://github.com/thanhtv2026/ThanhADB/releases/download/Thanh/Apptv_.Maixuanninh._v1.0.5.3.apk"
+        },
+        {
             "title": "YouTube",
             "version": "1.10.1",
             "packageName": "com.google.android.youtube.tv",
